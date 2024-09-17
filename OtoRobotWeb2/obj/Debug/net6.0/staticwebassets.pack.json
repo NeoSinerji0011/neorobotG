@@ -1,0 +1,545 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\OtoRobotWeb2.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OtoRobotWeb2.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\css\\css.css",
+      "PackagePath": "staticwebassets\\assets\\css\\css.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\css\\login.css",
+      "PackagePath": "staticwebassets\\assets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\css\\style1.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\assets\\datatable\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\assets\\datatable\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\datatable\\js\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\datatable\\js\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\103.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\103.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\142.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\142.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\2.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\2.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\back.png",
+      "PackagePath": "staticwebassets\\assets\\images\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\cancel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\cancel.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\excel.png",
+      "PackagePath": "staticwebassets\\assets\\images\\excel.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\karmapdf.png",
+      "PackagePath": "staticwebassets\\assets\\images\\karmapdf.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\otorobotlogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\otorobotlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\otorobotlogo2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\otorobotlogo2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\pdf.png",
+      "PackagePath": "staticwebassets\\assets\\images\\pdf.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\assets\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\refreshcaptcha.png",
+      "PackagePath": "staticwebassets\\assets\\images\\refreshcaptcha.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\robotlogo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\robotlogo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\images\\send2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\send2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\js\\customSocket.js",
+      "PackagePath": "staticwebassets\\assets\\js\\customSocket.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\js\\othertools.js",
+      "PackagePath": "staticwebassets\\assets\\js\\othertools.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\assets\\js\\session.js",
+      "PackagePath": "staticwebassets\\assets\\js\\session.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\css\\buttons.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\buttons.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\icon.png",
+      "PackagePath": "staticwebassets\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\bg1.jpeg",
+      "PackagePath": "staticwebassets\\images\\bg1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\checkout3.png",
+      "PackagePath": "staticwebassets\\images\\checkout3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\checkout4.png",
+      "PackagePath": "staticwebassets\\images\\checkout4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\do-not-disturb-on.svg",
+      "PackagePath": "staticwebassets\\images\\do-not-disturb-on.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\go.png",
+      "PackagePath": "staticwebassets\\images\\go.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\goBlue.png",
+      "PackagePath": "staticwebassets\\images\\goBlue.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\s3.png",
+      "PackagePath": "staticwebassets\\images\\s3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\wpotodemir.png",
+      "PackagePath": "staticwebassets\\images\\wpotodemir.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\images\\x-circle-fill.svg",
+      "PackagePath": "staticwebassets\\images\\x-circle-fill.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\js\\login.js",
+      "PackagePath": "staticwebassets\\js\\login.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\mainPage\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\css\\style.css",
+      "PackagePath": "staticwebassets\\mainPage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\mainPage\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\images\\logo212.png",
+      "PackagePath": "staticwebassets\\mainPage\\images\\logo212.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\images\\neo sinerji logo_seffaf.png",
+      "PackagePath": "staticwebassets\\mainPage\\images\\neo sinerji logo_seffaf.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\mainPage\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\mainPage\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\js\\main.js",
+      "PackagePath": "staticwebassets\\mainPage\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\otorobot\\otorob2\\OtoRobotWeb2\\wwwroot\\mainPage\\js\\popper.js",
+      "PackagePath": "staticwebassets\\mainPage\\js\\popper.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.OtoRobotWeb2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.OtoRobotWeb2.props",
+      "PackagePath": "build\\OtoRobotWeb2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.OtoRobotWeb2.props",
+      "PackagePath": "buildMultiTargeting\\OtoRobotWeb2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.OtoRobotWeb2.props",
+      "PackagePath": "buildTransitive\\OtoRobotWeb2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
